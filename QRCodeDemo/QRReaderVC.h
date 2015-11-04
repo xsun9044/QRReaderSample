@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  QRReaderVC.h
 //  QRCodeDemo
 //
 //  Created by Xin Sun on 11/4/15.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface QRReaderVC : UIViewController
 
 
 @end
